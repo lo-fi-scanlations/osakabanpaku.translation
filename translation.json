@@ -1,0 +1,525 @@
+{
+	"pages": [
+		{
+			"page_number": 1,
+			"text_clouds": [
+				{
+					"font": "Elektra-Text-Pro-Bold",
+					"color": "#ffffff",
+					"size": 72,
+					"interline_size": 0,
+					"alignment": "center",
+					"text": "Keiichi\nArawi"
+				}
+			]
+		},
+		{
+			"page_number": 2,
+			"text_clouds": [
+				{
+					"font": "JakobTT",
+					"color": "#000000",
+					"size": 72,
+					"interline_size": -5,
+					"alignment": "center",
+					"text": "Limousine"
+				},
+
+				{
+					"font": "JakobTT",
+					"color": "#000000",
+					"size": 18,
+					"interline_size": -10,
+					"alignment": "center",
+					"text": "Osaka-san,\nhave you\nfinished a\ncopy of\nmy homework\nyet?"
+				},
+				{
+					"font": "JakobTT",
+					"color": "#000000",
+					"size": 18,
+					"interline_size": -10,
+					"alignment": "center",
+					"text": "Wait\na\nlittle."
+				},
+				{
+					"font": "JakobTT",
+					"color": "#000000",
+					"size": 18,
+					"interline_size": -10,
+					"alignment": "center",
+					"text": "O-oh,\nChio-chan,\nthere's a\nlimousine."
+				},
+				{
+					"font": "JakobTT",
+					"color": "#000000",
+					"size": 24,
+					"interline_size": -10,
+					"alignment": "center",
+					"text": "I've\nnever\nseen a\nlimousine\nbefore."
+				},
+				{
+					"font": "JakobTT",
+					"color": "#000000",
+					"size": 24,
+					"interline_size": -10,
+					"alignment": "center",
+					"text": "Maybe,\nthere's\na party\nsomewhere?"
+				},
+				{
+					"font": "JakobTT",
+					"color": "#000000",
+					"size": 24,
+					"interline_size": -10,
+					"alignment": "center",
+					"text": "Th..."
+				},
+				{
+					"font": "JakobTT",
+					"color": "#000000",
+					"size": 24,
+					"interline_size": -10,
+					"alignment": "center",
+					"text": "This\nis..."
+				},
+				{
+					"font": "JakobTT",
+					"color": "#000000",
+					"size": 24,
+					"interline_size": -10,
+					"alignment": "center",
+					"text": "No\nway..."
+				}
+			] 
+		},
+		{
+			"page_number": 3,
+			"text_clouds": [
+				{
+					"font": "v_KomikaAxis",
+					"color": "#000000",
+					"size": 52,
+					"interline_size": -10,
+					"alignment": "center",
+					"text": "Tomo-\nchan\n!!!"
+				},
+				{
+					"font": "JakobTT",
+					"color": "#000000",
+					"size": 24,
+					"interline_size": -10,
+					"alignment": "center",
+					"text": "Maybe,\nshe want\nto say\n\"See-see!\nMy limou-\nsine!\"\nby this\nsudden\nlaunch!!"
+				},
+				{
+					"font": "Elektra-Text-Pro-Bold-Italic",
+					"color": "#000000",
+					"size": 38,
+					"interline_size": 0,
+					"alignment": "center",
+					"text": "May-\nbe!!!"
+				},
+				{
+					"font": "JakobTT",
+					"color": "#000000",
+					"size": 24,
+					"interline_size": -10,
+					"alignment": "center",
+					"text": "But in this way\nif the driver\nwon't notice her\nthat could result\nto death!!"
+				},
+				{
+					"font": "JakobTT",
+					"color": "#000000",
+					"size": 24,
+					"interline_size": -10,
+					"alignment": "center",
+					"text": "Deat...!!"
+				},
+				{
+					"font": "Elektra-Text-Pro-Bold-Italic",
+					"color": "#000000",
+					"size": 38,
+					"interline_size": 0,
+					"alignment": "center",
+					"text": "Osa-\nka-\nsan!!"
+				},
+				{
+					"font": "Elektra-Text-Pro-Bold-Italic",
+					"color": "#000000",
+					"size": 38,
+					"interline_size": 0,
+					"alignment": "center",
+					"text": "This\nis\n..."
+				}
+			]
+		},
+		{
+			"page_number": 4,
+			"text_clouds": [
+				{
+					"font": "v_KomikaAxis",
+					"color": "#000000",
+					"size": 52,
+					"interline_size": -10,
+					"alignment": "center",
+					"text": "Yo...\nYomi-\nchan\n!!!"
+				},
+				{
+					"font": "JakobTT",
+					"color": "#000000",
+					"size": 24,
+					"interline_size": -10,
+					"alignment": "center",
+					"text": "The\nstopping'll\nbe an\ninevitable\ndeath..."
+				},
+				{
+					"font": "JakobTT-Bold",
+					"color": "#000000",
+					"size": 24,
+					"interline_size": -10,
+					"alignment": "center",
+					"text": "The\nlimou-\nsine's\nstop-\nping...!!"
+				},
+				{
+					"font": "JakobTT",
+					"color": "#000000",
+					"size": 24,
+					"interline_size": -10,
+					"alignment": "center",
+					"text": "Osaka-\nsan!!\nLook\nhere\nplease!!"
+				},
+				{
+					"font": "JakobTT",
+					"color": "#000000",
+					"size": 24,
+					"interline_size": -10,
+					"alignment": "center",
+					"text": "Yomi-\nchan's\nglasses..."
+				},
+				{
+					"font": "Elektra-Text-Pro-Bold-Italic",
+					"color": "#000000",
+					"size": 38,
+					"interline_size": 0,
+					"alignment": "center",
+					"text": "No...\nNo\nway!!\n..."
+				}
+			]
+		},
+		{
+			"page_number": 5,
+			"text_clouds": [
+				{
+					"font": "v_KomikaAxis",
+					"color": "#000000",
+					"size": 38,
+					"interline_size": -10,
+					"alignment": "center",
+					"text": "It's\nta-\nken\noff\n!!!"
+				},
+				{
+					"font": "JakobTT",
+					"color": "#000000",
+					"size": 24,
+					"interline_size": -10,
+					"alignment": "center",
+					"text": "Without it\nYomi-chan\ncan't see\nanything..."
+				},
+				{
+					"font": "JakobTT-Bold",
+					"color": "#000000",
+					"size": 24,
+					"interline_size": -10,
+					"alignment": "center",
+					"text": "Can't\nsee\nanything!!!"
+				},
+				{
+					"font": "JakobTT",
+					"color": "#000000",
+					"size": 14,
+					"interline_size": -10,
+					"alignment": "center",
+					"text": "Ha-\nven't\ncrash-\ned!!!"
+				},
+				{
+					"font": "JakobTT",
+					"color": "#000000",
+					"size": 14,
+					"interline_size": -10,
+					"alignment": "center",
+					"text": "Lu-\nckily,\nhaven't\ncrash-\ned!!!"
+				},
+				{
+					"font": "JakobTT",
+					"color": "#000000",
+					"size": 18,
+					"interline_size": -10,
+					"alignment": "center",
+					"text": "Wait,\nOsaka-\nsan!!"
+				},
+				{
+					"font": "JakobTT",
+					"color": "#000000",
+					"size": 18,
+					"interline_size": -10,
+					"alignment": "center",
+					"text": "Tomo-\nchan..."
+				}
+
+			]
+		},
+		{
+			"page_number": 6,
+			"text_clouds": [
+				{
+					"font": "v_KomikaAxis",
+					"color": "#000000",
+					"size": 42,
+					"interline_size": -10,
+					"alignment": "center",
+					"text": "Tomo-\nchan\nhas\nbeen\nripped\noff!!!"
+				},
+				{
+					"font": "JakobTT",
+					"color": "#000000",
+					"size": 24,
+					"interline_size": -10,
+					"alignment": "center",
+					"text": "Ah,\nno\nway!!"
+				},
+				{
+					"font": "JakobTT",
+					"color": "#000000",
+					"size": 24,
+					"interline_size": -10,
+					"alignment": "center",
+					"text": "Her\ntrajec-\ntory..."
+				},
+				{
+					"font": "v_KomikaAxis",
+					"color": "#000000",
+					"size": 24,
+					"interline_size": -10,
+					"alignment": "center",
+					"text": "Is\nright\non\nthe\nglas-\nses\n!!!"
+				},
+				{
+					"font": "Elektra-Text-Pro-Bold-Italic",
+					"color": "#000000",
+					"size": 52,
+					"interline_size": 0,
+					"alignment": "center",
+					"text": "N\no\no\no\no\no\n!!!"
+				}
+			]
+		},
+		{
+			"page_number": 7,
+			"text_clouds": [
+				{
+					"font": "Elektra-Text-Pro-Bold-Italic",
+					"color": "#000000",
+					"size": 32,
+					"interline_size": 0,
+					"alignment": "center",
+					"text": "Who's\nthat\n?!!"
+				},
+				{
+					"font": "JakobTT",
+					"color": "#000000",
+					"size": 24,
+					"interline_size": -10,
+					"alignment": "center",
+					"text": "Th..."
+				},
+				{
+					"font": "JakobTT",
+					"color": "#000000",
+					"size": 24,
+					"interline_size": -10,
+					"alignment": "center",
+					"text": "This\nis..."
+				}
+			]
+		},
+		{
+			"page_number": 8,
+			"text_clouds": [
+				{
+					"font": "v_komikaaxis",
+					"color": "#000000",
+					"size": 42,
+					"interline_size": -10,
+					"alignment": "center",
+					"text": "Me-\ngumi\n..."
+				},
+				{
+					"font": "v_komikaaxis",
+					"color": "#000000",
+					"size": 42,
+					"interline_size": -10,
+					"alignment": "center",
+					"text": "from\nthe\nfirst\nvo-\nlume\n!!!"
+				},
+				{
+					"font": "JakobTT",
+					"color": "#000000",
+					"size": 18,
+					"interline_size": 0,
+					"alignment": "center",
+					"text": "You're\nso reck-\nless."
+				},
+				{
+					"font": "JakobTT",
+					"color": "#000000",
+					"size": 18,
+					"interline_size": 0,
+					"alignment": "center",
+					"text": "He-\nhe."
+				},
+				{
+					"font": "Elektra-Text-Pro-Bold-Italic",
+					"color": "#000000",
+					"size": 24,
+					"interline_size": 0,
+					"alignment": "center",
+					"text": "As\ncan be\n expected\nfrom the\nchairman\nof the\nfirst\ntrimester\n!!!"
+				},
+				{
+					"font": "JakobTT-Bold",
+					"color": "#000000",
+					"size": 24,
+					"interline_size": -10,
+					"alignment": "center",
+					"text": "I\nthink\nI'm starting\nto see\nwhat\nkind\nof person\nis chair-\nman is!!!"
+				},
+				{
+					"font": "JakobTT",
+					"color": "#000000",
+					"size": 24,
+					"alignment": "center",
+					"text": "Oh, Osaka-\nsan!!! Glasses\nare safe\ntoo!!!"
+				},
+				{
+					"font": "JakobTT-Bold",
+					"color": "#000000",
+					"size": 24,
+					"interline_size": -10,
+					"alignment": "center",
+					"text": "That's\ntrue!!"
+				},
+				{
+					"font": "JakobTT",
+					"color": "#000000",
+					"size": 24,
+					"interline_size": -10,
+					"alignment": "center",
+					"text": "And..."
+				},
+				{
+					"font": "JakobTT",
+					"color": "#000000",
+					"size": 24,
+					"interline_size": -10,
+					"alignment": "center",
+					"text": "That\nmeans..."
+				},
+				{
+					"font": "Elektra-Text-Pro-Bold-Italic",
+					"color": "#000000",
+					"size": 24,
+					"interline_size": 0,
+					"alignment": "center",
+					"text": "...\nthat\nin\nthis\nway\n...."
+				},
+				{
+					"font": "Elektra-Text-Pro-Bold-Italic",
+					"color": "#000000",
+					"size": 24,
+					"interline_size": 0,
+					"alignment": "center",
+					"text": "The\ncase\nis\nclosed\n!!"
+				}
+			]
+
+		},
+		{
+			"page_number": 9,
+			"text_clouds": [
+				{
+					"font": "v_KomikaAxis",
+					"color": "#000000",
+					"size": 102,
+					"alignment": "center",
+					"text": "UW a A A A a A a A A"
+				},
+				{
+					"font": "v_KomikaAxis",
+					"color": "#000000",
+					"size": 42,
+					"interline_size": -10,
+					"alignment": "center",
+					"text": "I've\nhad\neno-\nugh\n!!"
+				},
+				{
+					"font": "v_KomikaAxis",
+					"color": "#000000",
+					"size": 42,
+					"interline_size": -10,
+					"alignment": "center",
+					"text": "I've\nhad\neno-\nugh\n!!!"
+				},
+				{
+					"font": "v_KomikaAxis",
+					"color": "#000000",
+					"size": 28,
+					"interline_size": -10,
+					"alignment": "center",
+					"text": "I've\nhad\neno-\nugh\n..."
+				},
+				{
+					"font": "v_KomikaAxis",
+					"color": "#000000",
+					"size": 28,
+					"interline_size": -10,
+					"alignment": "center",
+					"text": "of\nthe\nli-\nmou-\nsine\n!!!"
+				},
+				{
+					"font": "Elektra-Text-Pro",
+					"color": "#000000",
+					"stroke_width": 1,
+					"stroke_color": "#ffffff",
+					"size": 24,
+					"alignment": "center",
+					"text": "It's said,\ntoday\nin Kumagaya\nmaximum air\ntemperature\nhas been\nreached."
+				}
+			]
+		},
+		{
+			"page_number": 10,
+			"text_clouds": [
+				{
+					"font": "Elektra-Text-Pro",
+					"color": "#000000",
+					"size": 24,
+					"alignment": "center",
+					"text": "Keiichi Arawi"
+				},
+				{
+					"font": "Elektra-Text-Pro",
+					"color": "#000000",
+					"size": 18,
+					"alignment": "center",
+					"text": "The most important work:\nnichijou"
+				},
+				{
+					"font": "Elektra-Text-Pro",
+					"color": "#000000",
+					"size": 14,
+					"alignment": "center",
+					"text": "(published by Kadokawa Shoten)"
+				}
+			]
+		}
+	]
+}
